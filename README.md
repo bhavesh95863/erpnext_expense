@@ -1,6 +1,6 @@
-## Erpnext Expense
+## ERPNext Expense
 
-ERPNext Expense Management
+ERPNext Expense
 
 #### License
 

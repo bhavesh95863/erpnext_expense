@@ -3,7 +3,7 @@ name = "erpnext_expense"
 authors = [
     { name = "Nesscale Solutions Pvt Ltd", email = "info@nesscale.com"}
 ]
-description = "ERPNext Expense Management"
+description = "ERPNext Expense"
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]

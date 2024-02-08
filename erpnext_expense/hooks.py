@@ -1,7 +1,7 @@
 app_name = "erpnext_expense"
-app_title = "Erpnext Expense"
+app_title = "ERPNext Expense"
 app_publisher = "Nesscale Solutions Pvt Ltd"
-app_description = "ERPNext Expense Management"
+app_description = "ERPNext Expense"
 app_email = "info@nesscale.com"
 app_license = "mit"
 # required_apps = []
