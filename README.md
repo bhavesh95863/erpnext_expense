@@ -3,6 +3,8 @@
 ## Overview
 Expense Entry in ERPNext is a module designed to facilitate the recording and management of expenses within the ERPNext system. It provides users with a streamlined interface to input, categorize, and track various types of expenses incurred by the organization that are not billable.
 
+<img src="https://github.com/bhavesh95863/erpnext_expense/blob/version-15/expense_entry.gif" style="max-width: 100%;">
+
 ## Installation
 
 To install the Expense Entry module in your ERPNext instance, follow these steps:
